@@ -26,12 +26,12 @@ public class A3Ex7 {
       b = buffer.nextDouble();
       
       if(a>b){
-          System.out.println(+a);
+          System.out.println(a);
       }
       else if(a==b){
           System.out.println("Os numeros são iguais");
       }else{
-            System.out.println(+b);  
+            System.out.println(b);  
               }
     }
     
